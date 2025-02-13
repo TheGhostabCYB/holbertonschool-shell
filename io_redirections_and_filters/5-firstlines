@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-head /etc/passwd
-=======
-head
->>>>>>> 163d33e (permission granted ! Ihope.)
+head etc/passwd
